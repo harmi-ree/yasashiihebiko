@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/yasashiihebiko/static/css/main.b1b6a451.css",
-    "main.js": "/yasashiihebiko/static/js/main.8ce9707a.js",
+    "main.css": "/yasashiihebiko/static/css/main.18030a00.css",
+    "main.js": "/yasashiihebiko/static/js/main.43535c32.js",
     "index.html": "/yasashiihebiko/index.html",
-    "main.b1b6a451.css.map": "/yasashiihebiko/static/css/main.b1b6a451.css.map",
-    "main.8ce9707a.js.map": "/yasashiihebiko/static/js/main.8ce9707a.js.map"
+    "main.18030a00.css.map": "/yasashiihebiko/static/css/main.18030a00.css.map",
+    "main.43535c32.js.map": "/yasashiihebiko/static/js/main.43535c32.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1b6a451.css",
-    "static/js/main.8ce9707a.js"
+    "static/css/main.18030a00.css",
+    "static/js/main.43535c32.js"
   ]
 }
